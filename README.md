@@ -19,3 +19,11 @@ Here are my previous projects.
 3. [Bive Music player for Whale sidebar](https://store.whale.naver.com/detail/bjbfokfonchicpenohpmngbbkpgmbobg) - Solo project
    1. Skills : Javascript, Chromium extension.
    2. Reached about 8000+ download.
+   
+
+## My teams
+Our team is consisted with 4 members, including me.
+We're all member of student association, "[JARAM](https://jaram.net)".
+
+Our team name is "Latte Code". We love to make code with takeing a cup of coffee.
+![coffee-brand](https://user-images.githubusercontent.com/29659112/78640370-97a3db80-78ea-11ea-8fb6-77278636235b.jpg)
