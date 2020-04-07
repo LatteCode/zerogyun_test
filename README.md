@@ -9,4 +9,6 @@ I'm studying Comupter Science & Engineering at Hanyang university Erica, since 2
 Here are my previous projects.
 
 1. [BUS Hanyang](https://github.com/BusHanyang/) - Project Manager, Backend API Developer, DevOps Manager.
-   1.  skills : Javascript(Node.js), DevOps(Jenkins, Module Testing - Mocha.js, Google Cloud Platform)
+   1.  Skills : Javascript(Node.js), DevOps(Jenkins, Module Testing - Mocha.js, Google Cloud Platform)
+   2.  sites : [https://hybus.app](https://hybus.app)
+
